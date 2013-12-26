@@ -1,0 +1,4 @@
+fstab
+=====
+
+my personal fstab
